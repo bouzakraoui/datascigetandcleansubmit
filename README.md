@@ -1,6 +1,13 @@
 # getting-and-cleaning-data-course-project submit
 
 This is the course project for the Getting and Cleaning Data Coursera course. 
+
+To reproduce the cleaning and transformation the following steps must be performed:
+
+1. set working directory to root folder of UCI HAR Dataset
+2. download and run run_analysis.R are sourced
+3. the rest of the script is sourced
+
 The R script, run_analysis.R, does the following:
 
 1. Download the dataset
